@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Լադիկ [ C# Անհատական, Կուրսային ]\DziKursayin\DziKursayin\bin\Debug\DziKursayin.exe.config
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Լադիկ [ C# Անհատական, Կուրսային ]\DziKursayin\DziKursayin\bin\Debug\DziKursayin.exe
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Լադիկ [ C# Անհատական, Կուրսային ]\DziKursayin\DziKursayin\bin\Debug\DziKursayin.pdb
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Լադիկ [ C# Անհատական, Կուրսային ]\DziKursayin\DziKursayin\obj\Debug\DziKursayin.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Լադիկ [ C# Անհատական, Կուրսային ]\DziKursayin\DziKursayin\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Լադիկ [ C# Անհատական, Կուրսային ]\DziKursayin\DziKursayin\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Լադիկ [ C# Անհատական, Կուրսային ]\DziKursayin\DziKursayin\obj\Debug\DziKursayin_MarkupCompile.cache
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Լադիկ [ C# Անհատական, Կուրսային ]\DziKursayin\DziKursayin\obj\Debug\DziKursayin_MarkupCompile.lref
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Լադիկ [ C# Անհատական, Կուրսային ]\DziKursayin\DziKursayin\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Լադիկ [ C# Անհատական, Կուրսային ]\DziKursayin\DziKursayin\obj\Debug\DziKursayin.g.resources
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Լադիկ [ C# Անհատական, Կուրսային ]\DziKursayin\DziKursayin\obj\Debug\DziKursayin.Properties.Resources.resources
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Լադիկ [ C# Անհատական, Կուրսային ]\DziKursayin\DziKursayin\obj\Debug\DziKursayin.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Լադիկ [ C# Անհատական, Կուրսային ]\DziKursayin\DziKursayin\obj\Debug\DziKursayin.exe
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Լադիկ [ C# Անհատական, Կուրսային ]\DziKursayin\DziKursayin\obj\Debug\DziKursayin.pdb
